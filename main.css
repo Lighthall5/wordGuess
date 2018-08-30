@@ -1,0 +1,29 @@
+* {
+box-sizing: border-box;
+margin: 0 auto;
+font-weight: comic;
+}
+#Welcome {
+  color: blue
+}
+
+img {
+  max-width: 100%;
+}
+
+.jumbotron{
+  width: 70%;
+}
+
+#character{
+  text-align: center;
+  margin: 0 auto;
+  width: 50%
+}
+
+@media screen and ( min-width: 545px ) {
+
+}
+@media screen and ( min-width: 769px ) {
+
+}
